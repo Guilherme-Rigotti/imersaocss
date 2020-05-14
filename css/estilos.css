@@ -10,6 +10,11 @@ body{
     font-family: Arial;
     height: 100vh;
   }
+
+header{
+  height: 100vh;
+}  
+
   .menu{
     background-color: gray;
   }
@@ -38,4 +43,17 @@ body{
   .site-subtitle{
     font-style: italic;
    
+  }
+
+  .Portfólio{
+    color: whitesmoke;
+  }
+
+  figcaption{
+    color: whitesmoke;
+  }
+
+  .img-portfolio{
+    height: 180px;
+    width: 180px;
   }
